@@ -12,7 +12,7 @@
 * Technical tools or library used --**Python, Numpy, Pandas, Beautifulsoup, Request, html, css** 
 - 
   -  👉<a href="https://github.com/karanchinch10/Web-Scraping-/blob/main/Web%20Scraping%20-%20House%20mumbai.ipynb">Web Scraping</a> 💝
-  -  👉<a href="https://github.com/karanchinch10/Oldcar_Sell_Regression/blob/main/predict-price-of-oldcars-regression-problem.ipynb">View On Github</a> 💝
+  -  👉<a href="https://github.com/karanchinch10/Web-Scraping-/blob/main/House%20Price%20Visualization%20Mumbai.ipynb">Scraped Data Process</a> 💝
 
 ![Semantic description of image](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/58549269/original/b11c5667c526a1c0be720f9aca49ac04ecea5326/create-web-scraper-web-crawler-and-bots-to-automate-task.png "House Web Scraping")
 
