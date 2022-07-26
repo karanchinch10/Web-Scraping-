@@ -7,7 +7,7 @@
 * To know Price of house for **differents location** in **mumbai** city 
 * All necessary **Hosuing data** to be scraped from website ***https://www.makaan.com*** by various techniques
 * Data from **250 pages scarpped and store in single dataframe**
-* Import Dataframe To Perform **EDA, Data cleaning and Data Visualization on Raw data** to understand important features and their correlation to with house price
+* Perform **EDA, Data cleaning and Data Visualization on Raw data** to understand important features and their correlation to with house price
 * Compare Price rate for different location BHK wise
 * Technical tools or library used --**Python, Numpy, Pandas, Beautifulsoup, Request, html, css** 
 - 
