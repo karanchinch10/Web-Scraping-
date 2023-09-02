@@ -1,8 +1,6 @@
 #  Web Scraping | Housing Data | Mumbai 🏡
 
-What is
-
-*Wescraping** is an automatic method to obtain **large amounts of data from websites**. Most of this data is **unstructured data** in an **HTML format** which is then converted into structured data in a **spreadsheet or a database** so that it can be used in various applications.
+WebScrapping is an automatic method to obtain **large amounts of data from websites**. Most of this data is **unstructured data** in an **HTML format** which is then converted into structured data in a **spreadsheet or a database** so that it can be used in various applications.
 
 ## Objective:
 * All **Important features** related to housing such as **house price, total sqft area, project by, location, BHK and so on** are collected by **web scraping**
